@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Hee-hee!'
+    return 'Haha!'
 
 if __name__ == '__main__':
     # Flask auf allen Schnittstellen lauschen lassen und Port 8080 verwenden
